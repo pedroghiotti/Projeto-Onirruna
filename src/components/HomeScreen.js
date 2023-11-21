@@ -1,11 +1,60 @@
-import { Text, View } from "react-native";
+import { ImageBackground, ScrollView } from "react-native";
+import { LinearGradient } from 'expo-linear-gradient';
+import Heading_1 from '/src/components/Heading_1.js';
+import NewsCard from '/src/components/NewsCard.js';
+import ChampionCarousel from "./ChampionCarousel";
+import Separator from '/src/components/Separator.js';
 
 const HomeScreen = ({navigation}) => 
 {
+
+  const News = [
+    {
+      key: 0,
+      title: 'Preseason Anunciada!',
+      blurb: 'Preseason anunciada e chegará em dezembro!'
+    },
+    {
+      key: 1,
+      title: 'Placeholder!',
+      blurb: 'Placeholder, placeholder placeholder. Placeholder placeholder! Placeholder?'
+    },
+    {
+      key: 2,
+      title: 'Título!',
+      blurb: 'Conteúdo conteúdo conteúdo, conteúdo conteúdo. Conteúdo conteúdo? Conteúdo.'
+    },
+    {
+      key: 3,
+      title: 'Lorem Ipsum!',
+      blurb: 'Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.'
+    },
+  ]
+
   return(
-    <View>
-      <Text> HOME </Text>
-    </View>
+    <ImageBackground
+      source = { require('/assets/sr_bg.jpg') }
+      style = { {height: '100%'} }
+    >
+      <LinearGradient
+        colors = {['#0A0A0C', 'transparent']}
+        locations={[.2, 1]}
+        style = { {height: '100%', padding: '1rem', paddingBottom: 0} }
+      >
+        <ChampionCarousel></ChampionCarousel>
+        <Separator></Separator>
+
+        <ScrollView
+          showsVerticalScrollIndicator = {false}
+        >
+
+          <Heading_1 title = 'news'></Heading_1>
+          {News.map((props) => <NewsCard {...props}></NewsCard>)}
+
+        </ScrollView>
+
+      </LinearGradient>
+    </ImageBackground>
   );
 }
 

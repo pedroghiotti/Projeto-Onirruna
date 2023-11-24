@@ -4,10 +4,11 @@ import Heading_1 from '/src/components/Heading_1.js';
 import NewsCard from '/src/components/NewsCard.js';
 import ChampionCarousel from "./ChampionCarousel";
 import Separator from '/src/components/Separator.js';
+import { View } from "react-native-web";
+import { useContext } from "react";
 
 const HomeScreen = ({navigation}) => 
 {
-
   const News = [
     {
       key: 0,
@@ -41,12 +42,15 @@ const HomeScreen = ({navigation}) =>
         locations={[.2, 1]}
         style = { {height: '100%', padding: '1rem', paddingBottom: 0} }
       >
-        <ChampionCarousel></ChampionCarousel>
-        <Separator></Separator>
-
+        
         <ScrollView
           showsVerticalScrollIndicator = {false}
+          stickyHeaderIndices={[0]}
         >
+          <View>
+            <ChampionCarousel navigation = { navigation }></ChampionCarousel>
+            <Separator></Separator>
+          </View>
 
           <Heading_1 title = 'news'></Heading_1>
           {News.map((props) => <NewsCard {...props}></NewsCard>)}

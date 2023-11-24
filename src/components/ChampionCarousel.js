@@ -1,32 +1,45 @@
 import { Image, Pressable, View, FlatList } from "react-native";
 import ChampionIcon from "./ChampionIcon";
-import { useRef } from "react";
+import { useContext, useEffect, useRef } from "react";
+import { LinearGradient } from 'expo-linear-gradient';
+import { Favorites } from "../../App.js";
 
-const ChampionCarousel = (props) => 
+const ChampionCarousel = ( { navigation } ) => 
 {
-    const Champions = ['Aatrox', 'Bard', 'Cassiopea', 'Darius', 'Ekko', 'Fiora', 'Gnar', 'Hecarim'];
+    const Champions = Object.keys(require('/src/data/champion.json').data);
+    let favorites = useContext(Favorites)
 
-    const flatList = useRef();
+    Champions.forEach( (value, i) => { if(favorites.includes(value)) Champions.splice(i, 1) } );
+    Champions.unshift(...favorites);
+    
+    const FlatListRef = useRef();
+
     let flatListOffset = 0;
-
-    const onClickOffset = 400;
+    const OnClickOffset = 400;
 
     return(
         <View style = {{
-                flexDirection: 'row', 
-                alignItems: 'center', 
-                justifyContent: 'space-between',
-                height: '10rem'
-            }}>
+            flexDirection: 'row', 
+            alignItems: 'center', 
+            justifyContent: 'space-between',
+            height: '10rem'
+        }}>
+
+            <LinearGradient
+                colors = {['#0A0A0C', 'transparent']}
+                locations={[1, 1]}
+                style = { {position: 'absolute', top: 0, bottom: '-1.4rem', left: 0, right: 0} }
+            ></LinearGradient>
 
             <FlatList
-                ref = { flatList }
+                ref = { FlatListRef }
                 data = { Champions }
+                extraData = { Champions }
                 renderItem = {({item, index}) =>
                 {
                     let offset = index == 0 ? '5rem' : 0;
 
-                    return( <ChampionIcon name={item} offset = {offset}></ChampionIcon> );
+                    return( <ChampionIcon name={item} offset={offset} navigation={navigation}></ChampionIcon> );
                 }}
                 horizontal = {true}
                 showsHorizontalScrollIndicator = {false}
@@ -37,6 +50,15 @@ const ChampionCarousel = (props) =>
                 }}
             />
 
+            <LinearGradient
+                start={{ x: 0, y: .5 }}
+                end={{ x: 1, y: .5 }}
+                colors = {['#0A0A0C', 'transparent', 'transparent', '#0A0A0C']}
+                locations={[0, .125, .875, 1]}
+                style = { {position: 'absolute', top: 0, bottom: 0, left: 0, right: 0} }
+                pointerEvents='none'
+            ></LinearGradient>
+
             <Pressable
                 style = {{
                     width: '5rem',
@@ -44,7 +66,7 @@ const ChampionCarousel = (props) =>
                     position: 'absolute',
                     left: 0
                 }}
-                onPress={() => flatList.current.scrollToOffset({offset: flatListOffset - onClickOffset}) }
+                onPress={() => FlatListRef.current.scrollToOffset({offset: flatListOffset - OnClickOffset}) }
             >
                 <Image source = {require('/assets/backIcon.png')} style = {{width: '100%', aspectRatio: 1}}/>
             </Pressable>
@@ -57,7 +79,7 @@ const ChampionCarousel = (props) =>
                     position: 'absolute',
                     right: 0
                 }}
-                onPress={() => flatList.current.scrollToOffset({offset: flatListOffset + onClickOffset}) }
+                onPress={() => FlatListRef.current.scrollToOffset({offset: flatListOffset + OnClickOffset}) }
             >
                 <Image source = {require('/assets/backIcon.png')} style = {{width: '100%', aspectRatio: 1}}/>
             </Pressable>

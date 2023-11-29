@@ -6,11 +6,7 @@ import { Favorites } from "../../App.js";
 
 const ChampionCarousel = ( { navigation } ) => 
 {
-    const Champions = Object.keys(require('/src/data/champion.json').data);
-    let favorites = useContext(Favorites)
-
-    Champions.forEach( (value, i) => { if(favorites.includes(value)) Champions.splice(i, 1) } );
-    Champions.unshift(...favorites);
+    const Champions = Object.keys( (require('/src/data/champion.json')).data );
     
     const FlatListRef = useRef();
 
@@ -39,7 +35,7 @@ const ChampionCarousel = ( { navigation } ) =>
                 {
                     let offset = index == 0 ? '5rem' : 0;
 
-                    return( <ChampionIcon name={item} offset={offset} navigation={navigation}></ChampionIcon> );
+                    return( <ChampionIcon name={item} marginR = '1rem' offset={offset} navigation={navigation}></ChampionIcon> );
                 }}
                 horizontal = {true}
                 showsHorizontalScrollIndicator = {false}

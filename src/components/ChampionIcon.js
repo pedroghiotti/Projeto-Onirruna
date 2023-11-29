@@ -3,7 +3,7 @@ import { Image, Pressable } from "react-native";
 
 const ChampionIcon = (props) => 
 {
-    const { name, navigation } = props;
+    const { name, navigation, marginR = 0 } = props;
     const [backgroundUri, setBackgroundUri] = useState('http://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Blitzcrank_5.jpg')
 
     useEffect(() =>
@@ -21,13 +21,13 @@ const ChampionIcon = (props) =>
     return(
         <Pressable
             onPress={ () => navigation.navigate('ChampionScreen', {championName: name})}
-            style = {{ width: '10rem', aspectRatio: 1, borderRadius: '50%', overflow: 'hidden', marginRight: '1rem', marginLeft: props.offset }}
+            style = {{ width: '10rem', aspectRatio: 1, borderRadius: '50%', overflow: 'hidden', marginRight: marginR, marginLeft: props.offset }}
         >
 
-        <Image
-            source = { backgroundUri }
-            style = {{ width: '100%', aspectRatio: 1 }}
-        />
+            <Image
+                source = { backgroundUri }
+                style = {{ width: '100%', aspectRatio: 1 }}
+            />
 
         </Pressable>
     );

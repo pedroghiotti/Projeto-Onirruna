@@ -20,10 +20,6 @@ const ChampionScreen = ({route, navigation}) =>
   const championName = route.params.championName.charAt(0).toUpperCase() + route.params.championName.slice(1);
   const data = (require('/src/data/champion.json')).data[championName];
 
-
-  console.log(data);
-
-
   return(
     <View style={{backgroundColor: '#0A0A0C', paddingBottom: '2rem', gap: '2rem'}}>
       <ImageBackground
@@ -43,7 +39,7 @@ const ChampionScreen = ({route, navigation}) =>
             >{championName}</Text>
             <Text
               style = {{color: 'white', fontSize: '3rem', fontFamily: 'BeaufortForLol_Regular'}}
-            >Lorem ipsum dolor sit amet</Text>
+            >{data.title}</Text>
           </View>
 
         </LinearGradient>
@@ -75,23 +71,30 @@ const ChampionScreen = ({route, navigation}) =>
             </View>
               
             <View>
-              <FlatList
-                data={ data.runas.primaria.slice(1) }
+            <FlatList
+                data={ data.runas.primaria.slice(1, 2) }
                 renderItem={ ({item}) => <RuneIcon name={item} navigation={navigation} size='10rem'></RuneIcon> }
+                horizontal={false}
+              />
+              <FlatList
+                data={ data.runas.primaria.slice(2) }
+                renderItem={ ({item}) => <RuneIcon name={item} navigation={navigation} size='8rem'></RuneIcon> }
                 horizontal={false}
               />
             </View>
             <View>
               <FlatList
                 data={ data.runas.secundaria.slice(1) }
-                renderItem={ ({item}) => <RuneIcon name={item} navigation={navigation} size='8rem'></RuneIcon> }
-                horizontal={false}
-              />
-              <FlatList
-                data={ data.runas.aux }
                 renderItem={ ({item}) => <RuneIcon name={item} navigation={navigation} size='6rem'></RuneIcon> }
                 horizontal={false}
               />
+              <View>
+                <FlatList
+                  data={ data.runas.aux }
+                  renderItem={ ({item}) => <RuneIcon name={item} navigation={navigation} size='4rem'></RuneIcon> }
+                  horizontal={false}
+                />
+              </View>
             </View>
 
             <View
@@ -127,7 +130,7 @@ const ChampionScreen = ({route, navigation}) =>
           >
             <View>
               <FlatList
-                data={ data.runas.primaria.slice(2) }
+                data={ data.iniciais }
                 keyExtractor={(item) => item}
                 renderItem={ ({item}) => <ItemIcon name={item} navigation={navigation} size='10rem' margin='1rem'></ItemIcon> }
                 horizontal={false}

@@ -3,863 +3,2135 @@
         "Aatrox": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]        
         },
         "Ahri": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Akali": {
             "roles": [
                 "mid",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Akshan": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Alistar": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Amumu": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Anivia": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Annie": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Aphelios": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Ashe": {
             "roles": [
                 "adc",
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "AurelionSol": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Azir": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Bard": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Blitzcrank": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Brand": {
             "roles": [
                 "sup",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Braum": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Caitlyn": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Camille": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Cassiopeia": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Chogath": {
             "roles": [
                 "top",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Corki": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Darius": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Diana": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Draven": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "DrMundo": {
             "roles": [
                 "top",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Ekko": {
             "roles": [
                 "jg",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Elise": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Evelynn": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Ezreal": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Fiddlesticks": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Fiora": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Fizz": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Galio": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Gangplank": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Garen": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Gnar": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Gragas": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Graves": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Gwen": {
             "roles": [
                 "top",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Hecarim": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Heimerdinger": {
             "roles": [
                 "mid",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Illaoi": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Irelia": {
             "roles": [
                 "top",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Ivern": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Janna": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "JarvanIV": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Jax": {
             "roles": [
                 "top",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Jayce": {
             "roles": [
                 "top",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Jhin": {
             "roles": [
                 "adc",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Jinx": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Kaisa": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Kalista": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Karma": {
             "roles": [
                 "sup",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Karthus": {
             "roles": [
                 "mid",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Kassadin": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Katarina": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Kayle": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Kayn": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Kennen": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Khazix": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Kindred": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Kled": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "KogMaw": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Leblanc": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "LeeSin": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Leona": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Lillia": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Lissandra": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Lucian": {
             "roles": [
                 "adc",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Lulu": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Lux": {
             "roles": [
                 "mid",
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Malphite": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Malzahar": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Maokai": {
             "roles": [
                 "top",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "MasterYi": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "MissFortune": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "MonkeyKing": {
             "roles": [
                 "top",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Mordekaiser": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Morgana": {
             "roles": [
                 "mid",
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Nami": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Nasus": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Nautilus": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Neeko": {
             "roles": [
                 "mid",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Nidalee": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Nocturne": {
             "roles": [
                 "jg",
                 "top",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Nunu": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Olaf": {
             "roles": [
                 "top",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Orianna": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Ornn": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Pantheon": {
             "roles": [
                 "top",
                 "mid",
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Poppy": {
             "roles": [
                 "top",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Pyke": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Qiyana": {
             "roles": [
                 "mid",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Quinn": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Rakan": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Rammus": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "RekSai": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Rell": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Renata": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Renekton": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Rengar": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Riven": {
             "roles": [
                 "top",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Rumble": {
             "roles": [
                 "top",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Ryze": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Samira": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Sejuani": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Senna": {
             "roles": [
                 "sup",
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Seraphine": {
             "roles": [
                 "sup",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Sett": {
             "roles": [
                 "top",
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Shaco": {
             "roles": [
                 "jg",
                 "top",
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Shen": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Shyvana": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Singed": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Sion": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Sivir": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Skarner": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Sona": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Soraka": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Swain": {
             "roles": [
                 "mid",
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Sylas": {
             "roles": [
                 "mid",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Syndra": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "TahmKench": {
             "roles": [
                 "top",
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Taliyah": {
             "roles": [
                 "mid",
                 "jg",
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Talon": {
             "roles": [
                 "mid",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Taric": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Teemo": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Thresh": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Tristana": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Trundle": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Tryndamere": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "TwistedFate": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Twitch": {
             "roles": [
                 "adc",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Udyr": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Urgot": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Varus": {
             "roles": [
                 "adc",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Vayne": {
             "roles": [
                 "adc",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Veigar": {
             "roles": [
                 "mid",
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Velkoz": {
             "roles": [
                 "mid",
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Vex": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Vi": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Viego": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Viktor": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Vladimir": {
             "roles": [
                 "mid",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Volibear": {
             "roles": [
                 "top",
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Warwick": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Xayah": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Xerath": {
             "roles": [
                 "mid",
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "XinZhao": {
             "roles": [
                 "jg",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Yasuo": {
             "roles": [
                 "mid",
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Yone": {
             "roles": [
                 "top",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Yorick": {
             "roles": [
                 "top"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Yuumi": {
             "roles": [
                 "sup"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Zac": {
             "roles": [
                 "jg"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Zed": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Zeri": {
             "roles": [
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Ziggs": {
             "roles": [
                 "mid",
                 "adc"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Zilean": {
             "roles": [
                 "sup",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Zoe": {
             "roles": [
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         },
         "Zyra": {
             "roles": [
                 "sup",
                 "mid"
-            ]
+            ],
+            "runas": {
+                "primaria": ["Precisão", "Conquistador", "Triunfo", "Lenda: Tenacidade", "Até a Morte"],
+                "secundaria": ["Determinação", "Osso Revestido", "Revitalizar"],
+                "aux": ["Força Adaptativa", "Força Adaptativa", "Escudo"]
+              },
+            "build": [
+                "Botas Galvanizadas de Aço", "Hemodrenário", "Lança de Shojin", "Rancor de Serylda", "Dança da Morte", "Anjo Guardião"
+            ]            
         }
     }
 }

@@ -11,7 +11,7 @@ const ItemIcon = (props) =>
         >
 
             <Image
-                source = { require(`/assets/itens/${name}`) }
+                source = { require(`/assets/itens/${name}.png`) }
                 style = {{ width: '100%', aspectRatio: 1 }}
             />
 

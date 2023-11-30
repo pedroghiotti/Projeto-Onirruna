@@ -81,6 +81,13 @@ const runeIcons = {
     "perspicaciaCosmica": 'https://raw.communitydragon.org/latest/game/assets/perks/styles/inspiration/cosmicinsight/cosmicinsight.png',
     "velocidadeAproximacao": 'https://raw.communitydragon.org/latest/game/assets/perks/styles/resolve/approachvelocity/approachvelocity.png',
     "tonicoDistorcao": 'https://raw.communitydragon.org/latest/game/assets/perks/styles/inspiration/timewarptonic/timewarptonic.png',
+
+    "Força Adaptativa": 'https://raw.communitydragon.org/latest/game/assets/perks/statmods/statmodsadaptiveforceicon.png',
+    "Escudo": 'https://raw.communitydragon.org/latest/game/assets/perks/statmods/statmodsarmoricon.png',
+    "Resistencia Mágica": 'https://raw.communitydragon.org/latest/game/assets/perks/statmods/statmodsmagicresicon.png',
+    "Escalamento de Vida": 'https://raw.communitydragon.org/latest/game/assets/perks/statmods/statmodshealthscalingicon.png',
+    "Velocidade de Ataque": 'https://raw.communitydragon.org/latest/game/assets/perks/statmods/statmodscdrscalingicon.png'
+
 };
 
 export default runeIcons;   

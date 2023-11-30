@@ -101,7 +101,7 @@ const SearchScreen = ({route, navigation}) =>
             renderItem={ ({item}) => <ChampionIcon name={item} navigation={navigation}></ChampionIcon> }
             horizontal={false}
             numColumns={3}
-            columnWrapperStyle={{ justifyContent: 'space-between', marginBottom: '1rem' }}
+            columnWrapperStyle={{ justifyContent: 'space-between', gap: '1rem' }}
           />
         </ScrollView>
 

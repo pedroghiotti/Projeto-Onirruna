@@ -1,5 +1,6 @@
 import { Text, View, Image } from "react-native";
 import { useFonts } from 'expo-font';
+import runeIcons from "./runeIcons"; 
 
 const Heading_1 = (props) => 
 {
